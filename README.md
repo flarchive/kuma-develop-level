@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of kuma-develop/level.** Not for installation: use [Packagist](https://packagist.org/packages/kuma-develop/level) or the [upstream repository](https://github.com/kuma-develop/Level).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/kuma-develop-level/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/kuma-develop-level/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/kuma-develop-level/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/kuma-develop-level/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/kuma-develop-level.json](https://github.com/flarchive/archive-index/blob/main/packages/kuma-develop-level.json)
 
